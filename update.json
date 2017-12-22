@@ -1,11 +1,8 @@
 {
   "latestVersion": "9.3.50.2",
   "latestVersionCode": "935002002",
-  "url": "https://github.com/josete1976/TouchWizHomeMod-twapp-/blob/master/TouchWizHome_2017J_9.3.50.2.apk",
+  "url": "https://raw.githubusercontent.com/josete1976/TouchWizHomeMod-twapp-/master/TouchWizHome_2017J_9.3.50.2.apk",
   "releaseNotes": [
-    "- Screen setting: added button for restore stock values (only for qualcomm devices)",
-    "- Added Option to Restore application data (in Settings menu)",
-    "- Removed AppUpdate check from boot service",
-    "- I/O Schedulers: NrRequests changes seekbar to editbox"
+    "- Esto es una prueba de actualización automática",
   ]
 }
