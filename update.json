@@ -1,0 +1,11 @@
+{
+  "latestVersion": "2.7.5",
+  "latestVersionCode": "275",
+  "url": "https://github.com/morogoku/MTweaks-KernelAdiutorMOD/releases/download/v2.7.5/MTweaks_v2.7.5.apk",
+  "releaseNotes": [
+    "- Screen setting: added button for restore stock values (only for qualcomm devices)",
+    "- Added Option to Restore application data (in Settings menu)",
+    "- Removed AppUpdate check from boot service",
+    "- I/O Schedulers: NrRequests changes seekbar to editbox"
+  ]
+}
